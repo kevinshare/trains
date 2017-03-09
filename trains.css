@@ -1,0 +1,128 @@
+body{
+	
+
+
+
+	background-color: black !important;
+	background-image: url("http://www.threepullpa.com/data/uploads/64/505027-new-train-station.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#header{
+	background-color: white;
+	opacity: 1;
+	background-image: url("http://www.threepullpa.com/data/uploads/64/505027-new-train-station.jpg");
+
+}
+.jumbotron{
+	background-image: url("http://www.threepullpa.com/data/uploads/64/505027-new-train-station.jpg") !important;
+	background-color: black !important;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/41/Kings_Cross_Train_Station_London_England.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+p{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy !important;
+	text-align: center !important;
+	margin: auto !important;
+	font-size: 20px !important;
+	color: #8B0000 !important;
+	border: black !important;
+	border-width: 5px !important;
+	opacity: 1;
+	-webkit-text-stroke-width: .2px !important;
+   	-webkit-text-stroke-color: #F8F8FF !important;
+   	border-bottom: 4px solid #8B0000 !important;
+   	text-shadow: #8B0000 0.05em 0.05em 0.05em;
+}
+h1{
+
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy !important;
+	text-align: center !important;
+	margin: auto !important;
+	font-size: 150px !important;
+	color: #8B0000 !important;
+	border: black;
+	border-width: 8px !important;
+	opacity: .9;
+	-webkit-text-stroke-width: 4px !important;
+   	-webkit-text-stroke-color: #F8F8FF !important;
+   	border-bottom: 10px solid #8B0000 !important;
+   	text-shadow: #8B0000 0.05em 0.05em 0.05em;
+}
+
+
+
+label{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy !important;
+	text-align: center !important;
+	margin: auto !important;
+	font-size: 30px !important;
+	color: white !important;
+	border: black !important;
+	border-width: 5px !important;
+	opacity: .9 !important;
+	-webkit-text-stroke-width: 2px !important;
+   	-webkit-text-stroke-color: black !important;
+   	border-bottom: 5px solid black !important;
+   	text-shadow: #8B0000 0.05em 0.05em 0.05em;
+
+}
+
+form{
+	background-color: black !important;
+}
+
+h3{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy !important;
+	text-align: center !important;
+	margin: auto !important;
+	font-size: 60px !important;
+	color: white !important;
+	border: black !important;
+	border-width: 5px !important;
+	opacity: .9 !important;
+	-webkit-text-stroke-width: 2px !important;
+   	-webkit-text-stroke-color: black !important;
+   	border-bottom: 5px solid black !important;
+   	text-shadow: #8B0000 0.05em 0.05em 0.05em;
+}
+
+.panel-body{
+	background-color: black !important;
+}
+
+.train-info-table{
+	background-color: black !important;
+}
+
+th{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy !important;
+	text-align: center !important;
+	margin: auto !important;
+	font-size: 30px !important;
+	color: white !important;
+	border: black !important;
+	border-width: 5px !important;
+	opacity: .9 !important;
+	-webkit-text-stroke-width: 2px !important;
+   	-webkit-text-stroke-color: black !important;
+   	border-bottom: 5px solid black !important;
+   	text-shadow: #8B0000 0.05em 0.05em 0.05em;
+}
+.panel{
+	background-color: black !important;
+}
+
+
+
+	
+
+
