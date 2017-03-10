@@ -4,7 +4,7 @@ body{
 
 
 	background-color: black !important;
-	background-image: url("http://www.threepullpa.com/data/uploads/64/505027-new-train-station.jpg") !important;
+	background-image: url("") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -12,16 +12,16 @@ body{
 #header{
 	background-color: white;
 	opacity: 1;
-	background-image: url("http://www.threepullpa.com/data/uploads/64/505027-new-train-station.jpg");
+	background-image: url("");
 
 }
 .jumbotron{
-	background-image: url("http://www.threepullpa.com/data/uploads/64/505027-new-train-station.jpg") !important;
+	background-image: url("") !important;
 	background-color: black !important;
 }
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/41/Kings_Cross_Train_Station_London_England.jpg);
+    background-image: url();
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
